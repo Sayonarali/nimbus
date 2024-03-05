@@ -1,0 +1,26 @@
+{
+  "name": "nimbus/storage",
+  "description": "cloud data storage",
+  "keywords": [
+    "nimbus",
+    "data",
+    "storage",
+    "cloud"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shevchenko Elizaveta",
+      "email": "elizaveta_shevchenko_00@inbox.ru",
+      "role": "Creator"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  }
+}
